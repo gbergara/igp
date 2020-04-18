@@ -1,0 +1,122 @@
+- Australia:
+    suspension: neutral
+    ride_height: 18
+    wing_level: 10
+    city_code: 2158177
+- Malaysia:
+    suspension: neutral
+    ride_height: 11
+    wing_level: 5
+    city_code: 1627625
+- China:
+    suspension: neutral
+    ride_height: 4
+    wing_level: 8
+    city_code: 1796236
+- Bahrain:
+    suspension: firm
+    ride_height: 7
+    wing_level:
+    city_code: 290291
+- Spain:
+    suspension: soft
+    ride_height: 4
+    wing_level: 13
+    city_code: 3116276
+- Monaco:
+    suspension: soft
+    ride_height: 21
+    wing_level: 20
+    city_code: 2993458
+- Turkey:
+    suspension: neutral
+    ride_height: 12
+    wing_level: 8
+    city_code: 745044
+- Great Britain 09:
+    suspension: firm
+    ride_height: 11
+    wing_level: 3
+    city_code: 2637827
+
+- Great Britain 19:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 2637827
+- Germany:
+    suspension: neutral
+    ride_height: 7
+    wing_level: 8
+    city_code: 2902852
+- Hungary:
+    suspension: soft
+    ride_height: 9
+    wing_level: 15
+    city_code: 3047986
+- Europe:
+    suspension: soft
+    ride_height: 11
+    wing_level: 13
+    city_code: unknown
+- Belgium:
+    suspension: neutral
+    ride_height: 11
+    wing_level: 9
+    city_code: 2786318
+- Italy:
+    suspension: firm
+    ride_height: 11
+    wing_level: 1
+    city_code: 6537122
+- Singapore:
+    suspension: soft
+    ride_height: 16
+    wing_level: 116
+    city_code: 1880252
+- Japan:
+    suspension: soft
+    ride_height: 11
+    wing_level: 13
+    city_code: 1851348
+- Brazil:
+    suspension: neutral
+    ride_height: 7
+    wing_level: 8
+    city_code: 3448439
+- Abu Dhabi:
+    suspension: neutral
+    ride_height: 12
+    wing_level: 5
+    city_code: 292968
+- Russia:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 491422
+- France:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 3004838
+- Canada:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 6077246
+- Austria:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 2764812
+- Azerbaijan:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 587081
+- Mexico:
+    suspension: unknown
+    ride_height: unknown
+    wing_level: unknown
+    city_code: 3530597
+
